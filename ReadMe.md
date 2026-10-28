@@ -1,11 +1,6 @@
 <div align="center">
 
-
-
-
-<div align="center">
-
-![Hey, I'm Jithin — Full Stack Developer](./jithin-intro.gif)
+![Hey, I'm Jithin — Full Stack Developer](./jithin_animated_github_banner.gif)
 
 </div>
 
