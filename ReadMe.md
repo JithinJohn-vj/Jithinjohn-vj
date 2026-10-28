@@ -2,11 +2,13 @@
 
 
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=210&amp;section=header&amp;text=Jithin%20John&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36" width="100%" alt="Jithin John — Full Stack Developer" />
+![Hey, I'm Jithin — Full Stack Developer](./jithin-intro.gif)
 
 </div>
+
 
 
 
