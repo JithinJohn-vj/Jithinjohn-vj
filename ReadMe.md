@@ -30,7 +30,6 @@ Explore my portfolio to see my web development work and projects.
 ### 🤖 OdensAI — Quote Automation & Price Prediction
 An AI-focused project concept combining quotation workflows with intelligent price prediction.
 
-**[Visit my portfolio →](https://portfolio-pied-seven-25.vercel.app/)**
 
 
 ## 🧰 Tech Stack
