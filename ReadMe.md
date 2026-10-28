@@ -24,15 +24,14 @@ I build practical web applications and AI-powered solutions, from polished user 
 
 ## 🚀 Featured Work
 
-### 🤖 OdensAI — Quote Automation & Price Prediction
-An AI-focused project concept combining quotation workflows with intelligent price prediction.
-
 ### 🌐 Developer Portfolio
 Explore my portfolio to see my web development work and projects.
 
+### 🤖 OdensAI — Quote Automation & Price Prediction
+An AI-focused project concept combining quotation workflows with intelligent price prediction.
+
 **[Visit my portfolio →](https://portfolio-pied-seven-25.vercel.app/)**
 
-> Add direct repository links, live demos, and screenshots to these project entries when they are ready to share.
 
 ## 🧰 Tech Stack
 
