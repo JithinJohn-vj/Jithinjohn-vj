@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on AI-powered applications and full-stack web projects.<br><br>👯 I’m looking to collaborate on innovative web applications, AI solutions, and open-source projects.<br><br>🤝 I’m looking for help with building scalable applications, system design, and cloud-native technologies.<br><br>🌱 I’m currently learning AI/ML, DevOps, Docker, Kubernetes, and cloud infrastructure.<br><br>💬 Ask me about Python, Django, FastAPI, React.js, Next.js, TypeScript, and Generative AI.<br><br>⚡ Fun fact: I started my development journey as a Python developer and now enjoy building everything from interactive user interfaces to AI-powered automation systems!
+## 👋 About Me
+
+I'm a Full Stack Developer passionate about building scalable web applications, AI-powered solutions, and intelligent automation systems.
+
+- 🔭 Building AI-powered applications and full-stack products.
+- 🤖 Exploring Generative AI, LLM integrations, and machine learning.
+- 💻 Experienced with Python, Django, FastAPI, React, Next.js, and TypeScript.
+- ☁️ Developing my expertise in AWS, Docker, Kubernetes, and DevOps.
+- 🚀 Creator of AI-driven projects, including an automated quotation and price prediction system.
+- 🤝 Open to collaborating on innovative products and impactful open-source projects.
+
+**My goal:** Turn complex problems into practical, reliable, and intelligent software solutions.
 
 
 # 💻 Tech Stack:
