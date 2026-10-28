@@ -1,7 +1,13 @@
 <div align="center">
 
 
-![Jithin John — Full Stack Developer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Jithin%20John&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=17)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=210&amp;section=header&amp;text=Jithin%20John&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36" width="100%" alt="Jithin John — Full Stack Developer" />
+
+</div>
+
 
 
 <a href="https://readme-typing-svg.demolab.com">
