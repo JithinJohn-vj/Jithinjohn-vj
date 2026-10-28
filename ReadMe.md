@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=210&amp;section=header&amp;text=Jithin%20John&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Cloud%20%26%20DevOps&amp;descAlignY=58&amp;descSize=17" width="100%" alt="Jithin John — Full Stack Developer" />
+
+![Jithin John — Full Stack Developer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Jithin%20John&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=17)
+
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+useful+digital+experiences;Full+Stack+%7C+Python+%7C+TypeScript;Exploring+AI-powered+applications;Learning+Cloud+%26+DevOps+every+day" alt="Animated developer introduction" />
