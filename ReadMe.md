@@ -4,12 +4,16 @@
 
 </div>
 
+<p align="center">
+  <a href="https://portfolio-pied-seven-25.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JithinJohn-vj&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+useful+digital+experiences;Full+Stack+%7C+Python+%7C+TypeScript;Exploring+AI-powered+applications;Learning+Cloud+%26+DevOps+every+day" alt="Animated developer introduction" />
-</a>
 
 <br/>
 
