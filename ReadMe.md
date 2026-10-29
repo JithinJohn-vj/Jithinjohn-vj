@@ -13,9 +13,15 @@
 
 <br/>
 
-<a href="https://portfolio-pied-seven-25.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/JithinJohn-vj"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=jithinjohn-vj&amp;style=for-the-badge&amp;color=7C3AED&amp;label=PROFILE+VIEWS" alt="Profile views" />
+<p align="center">
+  <a href="https://portfolio-pied-seven-25.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/endpoint?url=https://komarev.com/ghpvc/?username=jithinjohn-vj&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 </div>
 
