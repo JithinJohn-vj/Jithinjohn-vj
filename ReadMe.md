@@ -5,6 +5,10 @@
 </div>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+React+%7C+Next.js;AI-Powered+Application+Builder;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://portfolio-pied-seven-25.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
