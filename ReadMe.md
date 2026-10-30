@@ -26,16 +26,14 @@
 ---
 
 <h1 align="center">✨ About Me</h1>
-<div align="center">
 
 I'm a **Full Stack Developer** who enjoys turning ideas into reliable, user-friendly software. I work across frontend experiences, backend APIs, and AI-powered workflows, and I'm growing my skills in cloud infrastructure and DevOps.
 
- 🚀 **Building:** Full-stack web applications and AI-powered tools.
- 🧠 **Exploring:** Generative AI, LLM integrations, and intelligent automation.
- 💻 **Core stack:** Python, Django, FastAPI, React, Next.js, and TypeScript.
- ☁️ **Learning:** AWS, Docker, Kubernetes, CI/CD, and cloud-native practices.
- 🤝 **Open to:** Meaningful collaborations, useful products, and open-source projects.
-  </div>
+ - 🚀 **Building:** Full-stack web applications and AI-powered tools.
+ - 🧠 **Exploring:** Generative AI, LLM integrations, and intelligent automation.
+ - 💻 **Core stack:** Python, Django, FastAPI, React, Next.js, and TypeScript.
+ - ☁️ **Learning:** AWS, Docker, Kubernetes, CI/CD, and cloud-native practices.
+ - 🤝 **Open to:** Meaningful collaborations, useful products, and open-source projects.
 
 <h1 align="center"> 🧰 Tech Stack</h1>
 
