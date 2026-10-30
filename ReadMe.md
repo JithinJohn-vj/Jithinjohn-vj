@@ -143,7 +143,7 @@ I'm a **Full Stack Developer** who enjoys turning ideas into reliable, user-frie
   </tr>
 </table>
 
-## 📈 GitHub Analytics
+<h1 align="center">📈 GitHub Analytics</h1> 
 
 <div align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=JithinJohn-vj&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=7C3AED&amp;fire=F97316&amp;currStreakLabel=38BDF8" alt="GitHub contribution streak" />
