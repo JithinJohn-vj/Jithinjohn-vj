@@ -146,8 +146,6 @@ I'm a **Full Stack Developer** who enjoys turning ideas into reliable, user-frie
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JithinJohn-vj&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=A78BFA&amp;text_color=C9D1D9" alt="GitHub statistics" />
 <img height="170" src="https://streak-stats.demolab.com?user=JithinJohn-vj&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=7C3AED&amp;fire=F97316&amp;currStreakLabel=38BDF8" alt="GitHub contribution streak" />
 
 <br/>
